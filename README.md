@@ -41,3 +41,5 @@ With awareness of this problem, we have chosen the problem of predicting student
 
 [Deep Neural Network Training](https://github.com/letruongngochai/Grade-Prediction/blob/main/grades_prediction_dnn.ipynb)
 
+Report and Presentation below!
+[![Report and Presentation](https://hackmd.io/_uploads/BkOf8BeLp.png)](https://www.youtube.com/watch?v=WnTabyg2L48&feature=youtu.be&ab_channel=Ng%E1%BB%8DcH%E1%BA%A3i)
