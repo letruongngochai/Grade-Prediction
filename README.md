@@ -41,4 +41,5 @@ With awareness of this problem, we have chosen the problem of predicting student
 
 [Deep Neural Network Training](https://github.com/letruongngochai/Grade-Prediction/blob/main/grades_prediction_dnn.ipynb)
 
-[![Report and Presentation]([(https://github.com/letruongngochai/Grade-Prediction/assets/79315800/00f4b904-ce2d-459a-8867-daaa739f94ea)](https://www.youtube.com/watch?v=WnTabyg2L48&feature=youtu.be&ab_channel=Ng%E1%BB%8DcH%E1%BA%A3i)
+[![Report and Presentation]([(![image](https://github.com/letruongngochai/Grade-Prediction/assets/79315800/cf33120e-e6e9-491f-a7fc-6dc5c157433b)
+)](https://www.youtube.com/watch?v=WnTabyg2L48&feature=youtu.be&ab_channel=Ng%E1%BB%8DcH%E1%BA%A3i)
